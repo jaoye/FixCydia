@@ -48,3 +48,7 @@ $ python tcprelay.py -t 22:2222 &
 $ ssh -p 2222 root@localhost
 ```
 input Command line
+
+last step reboot your iPhone
+
+Good Luck!
