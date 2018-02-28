@@ -32,7 +32,7 @@ open Terminal on iPhone and input Command line
 
 #### Use USB Tunnel on ifunbox（only windows）
 
-blank
+I don't have a Windows system
 
 #### Use iPhoneSSH_USB on MacOS
 
