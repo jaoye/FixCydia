@@ -52,3 +52,9 @@ input Command line
 last step reboot your iPhone
 
 Good Luck!
+
+
+
+Link
+
+https://www.se7ensins.com/forums/threads/how-to-fix-cydia-could-not-open-file-ios-9-10.1557547/#post-12524330
